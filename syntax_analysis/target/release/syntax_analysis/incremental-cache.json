@@ -1,0 +1,14 @@
+{
+  "packageInformation": {
+    "syntax_analysis": {
+      "rootPackageName": "syntax_analysis",
+      "fileNameHash": "1285002644859359810",
+      "timeStamp": 1748780470,
+      "buildFlag": true,
+      "exeName": "main",
+      "hasSubPkgs": false
+    }
+  },
+  "jsonHash": "-553775850038204856",
+  "rootPackageName": "syntax_analysis"
+}

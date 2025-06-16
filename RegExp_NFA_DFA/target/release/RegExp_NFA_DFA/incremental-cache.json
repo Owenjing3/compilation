@@ -1,0 +1,14 @@
+{
+  "packageInformation": {
+    "RegExp_NFA_DFA": {
+      "rootPackageName": "RegExp_NFA_DFA",
+      "fileNameHash": "-1597950854382860706",
+      "timeStamp": 1735717832,
+      "buildFlag": true,
+      "exeName": "main",
+      "hasSubPkgs": false
+    }
+  },
+  "jsonHash": "8651069518361672466",
+  "rootPackageName": "RegExp_NFA_DFA"
+}
